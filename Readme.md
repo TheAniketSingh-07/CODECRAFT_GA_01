@@ -30,7 +30,7 @@ The model was trained using Hugging Face's **Transformers** and **Datasets** lib
 | GitHub               | Project repository hosting           |
 
 ---
-[![Open In Colab]((https://colab.research.google.com/drive/1SCr8leJzUS-HpRv9uqttF49nSp3_80ox?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/drive/1SCr8leJzUS-HpRv9uqttF49nSp3_80ox?usp=sharing)
 
 ## 📂 Dataset Details
 
