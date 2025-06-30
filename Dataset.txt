@@ -1,0 +1,2270 @@
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Daily AI Prompt Example ===
+Q: Help me write a message to my teacher requesting leave for tomorrow.
+A: Hello Ma'am, I am not feeling well and would like to request a leave for tomorrow. Thank you for understanding.
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== Thank You Message ===
+Dear Grandma,
+
+Thank you for the bedtime stories, the warm cookies, and the lessons in patience. Your love made my childhood magical.
+
+With love,
+Aniket
+
+=== General Knowledge Question ===
+Q: Which element has the chemical symbol 'O'?
+A: Oxygen
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Long Story ===
+In a distant future where cities float in the sky, a technician named Riva discovers a forgotten elevator shaft leading down to the ancient Earth. Her descent reveals a world where plants have reclaimed the land and AI animals rule the wild. As she befriends a talking wolf made of nanobots, she begins to question everything she's been taught about the past.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Thank You Message ===
+Dear Best Friend,
+
+Thank you for never judging me and always lifting me up. You’re a blessing I’ll never take for granted.
+
+Forever grateful,
+Aniket
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Short Story ===
+The last puzzle piece was missing — until her dog spat it out two weeks later.
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Coding Question ===
+Q: Write a Python program to find the factorial of a number.
+A:
+```
+def factorial(n):
+    return 1 if n==0 else n*factorial(n-1)
+```
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Daily AI Prompt Example ===
+Q: Create a bedtime story about a magical fish.
+A: Once upon a time, in a crystal lake, lived a glowing fish that could grant one wish every full moon...
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Coding Question ===
+Q: What is a dictionary in Python?
+A: A collection of key-value pairs, e.g., `{'name': 'Alice', 'age': 25}`
+
+=== Short Story ===
+She typed 'I miss you' but deleted it before sending. He did the same.
+
+=== General Knowledge Question ===
+Q: What is the boiling point of water at sea level?
+A: 100°C (212°F)
+
+=== Long Story ===
+On the outskirts of a war-torn kingdom, a blacksmith named Elric forged weapons that glowed blue when held by the righteous. His forge became a place of pilgrimage, not for warriors, but for those seeking to understand their own hearts. One day, a child arrived with a broken sword and a burning question — what makes someone worthy?
+
